@@ -1,6 +1,5 @@
 import pyqrcode
 import sys
-import base64
 
 ### requirement packages ##
 # pip install pyqrcode
